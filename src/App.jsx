@@ -58,6 +58,7 @@ function App() {
         <input
           type="date"
           name="date"
+          color="white"
           value={form.date}
           onChange={handleChange}
           required
