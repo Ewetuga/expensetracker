@@ -1,7 +1,7 @@
 
 .expense-tracker-container {
 width: 80rem;
-  margin: 2rem;
+  margin: 0;
   padding: 2rem 2.5rem 5rem 2.5rem;
   background: rgba(34, 34, 34, 0.95);
   border-radius: 18px;
